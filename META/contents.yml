@@ -35,4 +35,18 @@
   - title: Reflections
   - title: Post Script
 
-  
+- title: Tricks for working with text and files - Tear apart a minimal clone of the Jekyll blog engine in search of helpful idioms
+  path:  cheap-counterfeits-jekyll.md
+  sections:
+  - title: A brief overview of Jackal's functionality
+  - title: Idioms for text processing
+  - title: Idioms for working with files and folders
+  - title: Reflections
+
+- title: Working with binary file formats - Read and write bitmap files using only a few dozen lines of code
+  path:  working-with-binary-file-formats.md
+  sections:
+  - title: The anatomy of a bitmap
+  - title: Encoding a bitmap image
+  - title: Decoding a bitmap image
+  - title: Reflections
