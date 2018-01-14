@@ -16,19 +16,8 @@ This is the original source reformatted in a single-page book edition (using the
 - [Parsing JSON the hard way](parsing-json.md) - Learn about low-level parser and compiler tools by implementing a JSON parser. (w/ Aaron Patterson)  <!-- Issue 6.1 — January 1, 2013 -->
 - [Tricks for working with text and files](cheap-counterfeits-jekyll.md) - Tear apart a minimal clone of the Jekyll blog engine in search of helpful idioms. <!-- Issue 4.4 — May 10, 2012 -->
 - [Working with binary file formats](working-with-binary-file-formats.md) - Read and write bitmap files using only a few dozen lines of code.  <!-- Issue 2.12 — November 9, 2011 -->
-
-
-
-
-<!-- Issue 2.9 — October 18, 2011 -->
-
-- [Building Unix-style command line applications]() -
-Build a basic clone of the 'cat' utility while learning some Ruby idioms for command line applications.
-
-
-<!-- Issue 1.12 — December 21, 2010 -->
-
-- [Rapid Prototyping]() - Build a tiny prototype of a tetris game on the command line.
+- [Building Unix-style command line applications](unix-style-command-line-applications.md) - Build a basic clone of the 'cat' utility while learning some idioms for command line applications.   <!-- Issue 2.9 — October 18, 2011 -->
+- [Rapid Prototyping](rapid-prototyping.md) - Build a tiny prototype of a tetris game on the command line.  <!-- Issue 1.12 — December 21, 2010 -->
 
 
 <!-- Issue 8.2 — September 10, 2015 -->
