@@ -18,22 +18,10 @@ This is the original source reformatted in a single-page book edition (using the
 - [Working with binary file formats](working-with-binary-file-formats.md) - Read and write bitmap files using only a few dozen lines of code.  <!-- Issue 2.12 — November 9, 2011 -->
 - [Building Unix-style command line applications](unix-style-command-line-applications.md) - Build a basic clone of the 'cat' utility while learning some idioms for command line applications.   <!-- Issue 2.9 — October 18, 2011 -->
 - [Rapid Prototyping](rapid-prototyping.md) - Build a tiny prototype of a tetris game on the command line.  <!-- Issue 1.12 — December 21, 2010 -->
-
-
-<!-- Issue 8.2 — September 10, 2015 -->
-
-- [Safely evaluating user-defined formulas and calculations]() -
-Learn how to use Dentaku to evaluate Excel-like formulas in Ruby programs (w/ Solomon White)
-
-
-<!-- Issue 2.4 — September 13, 2011 -->
-
-- [Building Enumerable & Enumerator]() - Learn about Ruby's powerful iteration tools by implementing some of its functionality yourself.
-
-<!-- Issue 2.11 — November 2, 2011 -->
-
-- [Domain specific API construction]() - Master classic Ruby DSL design patterns by ripping off well-known libraries and tools.
-
+- [Building Enumerable 'n' Enumerator](roll-your-own-enumerable-and-enumerator.md) - Learn about powerful iteration tools by implementing some of its functionality yourself. <!-- Issue 2.4 — September 13, 2011 -->
+- [Domain specific API construction](domain-specific-api-construction.md) - Master classic DSL design patterns by ripping off well-known libraries and tools. <!-- Issue 2.11 — November 2, 2011 -->
+- [Safely evaluating user-defined formulas and calculations](formula-processing.md) -
+Learn how to use Dentaku to evaluate Excel-like formulas in programs (w/ Solomon White)   <!-- Issue 8.2 — September 10, 2015 -->
 
 
 

@@ -50,3 +50,53 @@
   - title: Encoding a bitmap image
   - title: Decoding a bitmap image
   - title: Reflections
+
+- title: Building Unix-style command line applications - Build a basic clone of the 'cat' utility while learning some idioms for command line applications
+  path:  unix-style-command-line-applications.md
+  sections:
+  - title: Building an executable script
+  - title: Stream processing techniques
+  - title: Options parsing
+  - title: Basic text formatting
+  - title: Error handling and exit codes
+  - title: Reflections
+
+- title: Rapid Prototyping - Build a tiny prototype of a tetris game on the command line
+  path:  rapid-prototyping.md
+  sections:
+  - title: The Planning Phase
+  - title: The Requirements Phase
+  - title: The Coding Phase
+    sections:
+    - title: "Case 1: line_shape_demo.rb"
+    - title: "Case 2: bended_shape_demo.rb"
+  - title: Reflections
+
+- title: Building Enumerable 'n' Enumerator - Learn about powerful iteration tools by implementing some of its functionality yourself
+  path:  roll-your-own-enumerable-and-enumerator.md
+  sections:
+  - title: Setting the stage with some tests
+  - title: Implementing the `FakeEnumerable` module
+  - title: Implementing the `FakeEnumerator` class
+  - title:  Reflections
+
+- title: Domain specific API construction - Master classic DSL design patterns by ripping off well-known libraries and tools
+  path:  domain-specific-api-construction.md
+  sections:
+  - title: Implementing `attr_accessor`
+  - title: Implementing a Rails-style `before_filter` construct
+  - title: Implementing a cheap counterfeit of Mail's API
+  - title: Implementing a shoddy version of XML Builder
+  - title: Implementing Contest on top of MiniTest
+  - title: Implement your own Gherkin parser, or criticize mine!
+  - title: Reflections
+
+- title: Safely evaluating user-defined formulas and calculations - Learn how to use Dentaku to evaluate Excel-like formulas in programs
+  path:  formula-processing.md
+  sections:
+  - title: First steps with the Dentaku formula evaluator
+  - title: Building the web interface
+  - title: Defining garden layouts as simple data tables
+  - title: Implementing the formula processor
+  - title: Considering the tradeoffs involved in using Dentaku
+  - title: Reflections and further explorations
