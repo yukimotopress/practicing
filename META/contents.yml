@@ -10,6 +10,7 @@
   - title: Safely converting a URI into a file path
   - title: Serving up index.html implicitly
   - title: Where to go from here
+
 - title:  Event loops demystified - Build a Node.js/EventMachine-style event loop in roughly 150 lines
   path:   evented-io.md
   sections:
@@ -21,5 +22,17 @@
   - title: Getting real with IO.select
   - title: Handling streaming input and output
   - title: Conclusions
+
+- title: Parsing JSON the hard way - Learn about low-level parser and compiler tools by implementing a JSON parser
+  path:  parsing-json.md
+  sections:
+  - title: The Tools We'll Be Using
+  - title: Racc Basics
+  - title: Building our JSON Parser
+  - title: Building the tokenizer
+  - title: Building the parser
+  - title: Building the handler
+  - title: Reflections
+  - title: Post Script
 
   

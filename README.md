@@ -12,13 +12,10 @@ This is the original source reformatted in a single-page book edition (using the
 
 
 - [A minimal HTTP server](http-server.md) - Build just enough HTTP functionality from scratch to serve up static files. (w/ Luke Francl)   <!-- Issue 7.2 — July 2, 2013 -->
-- [Event loops demystified](evented-io.md) - Build a Node.js/EventMachine-style event loop in roughly 150 lines of Ruby code. (w/ Magnus Holm)  <!-- Issue 5.3 — September 4, 2012 -->
+- [Event loops demystified](evented-io.md) - Build a Node.js/EventMachine-style event loop in roughly 150 lines. (w/ Magnus Holm)  <!-- Issue 5.3 — September 4, 2012 -->
+- [Parsing JSON the hard way](parsing-json.md) - Learn about low-level parser and compiler tools by implementing a JSON parser. (w/ Aaron Patterson)  <!-- Issue 6.1 — January 1, 2013 -->
 
 
-
-<!-- Issue 6.1 — January 1, 2013 -->
-
-- [Parsing JSON the hard way]() - Learn about low-level parser and compiler tools by implementing a JSON parser. (w/ Aaron Patterson)
 
 
 <!-- Issue 4.4 — May 10, 2012 -->
