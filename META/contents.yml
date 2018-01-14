@@ -1,0 +1,25 @@
+######################
+#  Table of Contents
+
+- title:  A minimal HTTP server - Build just enough HTTP functionality from scratch to serve up static files
+  path:   http-server.md
+  sections:
+  - title: A (very) brief introduction to HTTP
+  - title: Writing the "Hello World" HTTP server
+  - title: Serving files over HTTP
+  - title: Safely converting a URI into a file path
+  - title: Serving up index.html implicitly
+  - title: Where to go from here
+- title:  Event loops demystified - Build a Node.js/EventMachine-style event loop in roughly 150 lines
+  path:   evented-io.md
+  sections:
+  - title: Obligatory chat server example
+  - title: Event handling
+  - title: The IO loop
+  - title: IO events
+  - title: Working with the Ruby IO object
+  - title: Getting real with IO.select
+  - title: Handling streaming input and output
+  - title: Conclusions
+
+  
